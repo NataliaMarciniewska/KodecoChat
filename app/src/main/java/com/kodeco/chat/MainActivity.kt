@@ -15,6 +15,7 @@ import androidx.compose.runtime.remember
 import androidx.compose.runtime.setValue
 
 //MainActivity is the entry point of the app which sets up the user interface for the application.
+//This app is called KotecoChat.
 //This app displays an input field for the user to type a message, and a button to send the message.
 // When the button is clicked, the message is displayed below the input field.
 
