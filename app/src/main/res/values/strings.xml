@@ -1,0 +1,6 @@
+<!-- This file contains all the string resources used in the app.
+It allows for easier management and localization of the app's text. -->
+
+<resources>
+<string name="app_name">Kodeco Chat</string>
+</resources>
